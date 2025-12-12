@@ -1,5 +1,5 @@
 # jem.computer
 
-> Your favorite technologist's favorite technologist.
+> Your favorite technologists’ favorite technologist.
 
-Trans-disciplinary technolgist / designer / musician dot-connector shape-shifter focusing on inventing futuristic creative tooling and generative user interfaces.
+Trans-disciplinary technologist / designer / musician dot-connector shape-shifter focusing on inventing futuristic creative tooling and generative user interfaces.
